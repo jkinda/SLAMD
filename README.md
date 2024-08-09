@@ -25,7 +25,7 @@ SLAMD is open source under the terms of the [Sun Public License version 1.0](LIC
 
 To build SLAMD from source check it out of the repository with a command like:
 
-    git checkout https://github.com/dirmgr/slamd.git
+    git clone https://github.com/dirmgr/slamd.git
 
 Then change into the new `slamd` directory and run `build.sh` on Linux/UNIX-based systems, or `build.bat` on Windows.  Once the build completes, go into `build/package` directory, and you will see zip files for the SLAMD server, the client, and the resource monitor client.
 
